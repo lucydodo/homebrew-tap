@@ -10,7 +10,7 @@ class SqlbSqlcipher < Formula
   bottle do
     root_url "https://nightlies.sqlitebrowser.org/homebrew_bottles"
     rebuild 1
-    sha256 arm64_sonoma: "e19e90b320f464e8639e5bd5f59ee21e5b32c47f844440e85d43f0a39a2b2069"
+    sha256 arm64_sonoma: "ff81df0c7205ada240dfa3ea9fc29e11882b11ed1625b00b4b6cf3853d555084"
   end
 
   depends_on arch: :arm64
